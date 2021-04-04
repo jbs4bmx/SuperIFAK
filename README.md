@@ -1,6 +1,4 @@
 # SuperIFAK
-Modification of the in-game item "IFAK" for SPT-AKI
-
 
 This mod is a port of xKyle's SuperIFAK mod for EmuTarkov to SPT-AKI (Single Player Tarkov Mod).
 
@@ -8,8 +6,9 @@ This mod is a port of xKyle's SuperIFAK mod for EmuTarkov to SPT-AKI (Single Pla
 
 >Porting Author  : jbs4bmx
 
+>Version : 2.0.0 (Supports SPT-AKI B8)
 
-Version 1.0.1
+
 
 
 IFAK specifications:
