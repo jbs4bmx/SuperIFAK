@@ -12,7 +12,8 @@ This mod is a port of xKyle's SuperIFAK mod for EmuTarkov to SPT-AKI (Single Pla
 
 
 ## IFAK specifications
-   * HP Resource === 3000
+HP Resource === 3000
+
 |         Heals         |                             Cost                              |
 |:---------------------:|:-------------------------------------------------------------:|
 | Light Bleeding        | 30hp                                                          |
